@@ -1,0 +1,64 @@
+*{
+    background-color: rgb(2, 2, 2);
+padding: 0;
+margin: 0;
+  color: white;
+  text-decoration: none;
+  font-family: 'Syne', sans-serif;
+}
+.name{
+    
+    font-size: 390px;
+    margin: 50px  10px 0px 20px ;
+}
+
+.magic{
+    font-size: 50px;
+    font-family: 'Syne', sans-serif;      
+    margin: 120px 40px 50px 40px;
+    padding: 100px;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.box3 #text{
+    background-color: white;
+    color: black;
+    font-family: 'Syne', sans-serif;
+    font-size: 50px;
+    padding: 270px 270px 150px 270px ;
+   
+}
+.box4{
+    font-family: 'Syne', sans-serif;
+    
+padding: 150px;
+}
+#text1{
+    font-size: 70px;
+}
+.link{
+    font-size: xx-large;
+    width: 100px;
+
+    padding: 20px 100px 20px 20px;
+    width: auto;
+    border-radius: 10px;
+    margin: 60px;
+    background-color: rgb(255, 75, 102);
+}
+
+.link>a{
+    background-color: rgb(255, 75, 102);
+   
+}
+.nav{
+    font-family: 'Syne', sans-serif;
+   margin: 30px 0px 0px ;
+    
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+padding: 40px;
+}
